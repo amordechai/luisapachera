@@ -1,0 +1,14 @@
+.collegamenti {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #B184B9;
+	text-decoration: none;
+	font-style: italic;
+}
+a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #74477C;
+	text-decoration: none;
+	font-style: italic;
+}

@@ -1,0 +1,2034 @@
+# Webalizer V2.21-02 Incremental Data - 05/31/2011 19:21:05
+2011 5 31 19 21 5
+5251 3659 337 154 53 138 133169002 1997 427 0
+14 2 247 1 31
+141 117 2090711 18 38 13
+110 89 538807 16 69 11
+85 53 13425181 17 24 12
+100 79 501285 16 81 13
+0 0 0 0 0 0
+609 362 27054221 20 200 18
+122 94 510230 21 24 14
+17 8 69583 8 8 7
+53 38 220402 12 7 6
+61 41 311713 15 15 12
+252 228 1497236 21 89 15
+73 64 3752354 12 23 16
+265 231 13332779 23 135 15
+110 65 340668 21 27 18
+172 129 821207 21 144 23
+59 40 2831162 30 9 6
+221 169 4200743 35 43 24
+0 0 0 0 0 0
+88 64 481108 16 72 11
+134 113 11499303 12 102 9
+172 126 2457020 24 85 21
+123 81 1790588 19 70 13
+600 248 12483372 19 99 16
+161 133 1088891 18 92 20
+443 279 12663627 21 155 20
+103 77 4957928 14 19 14
+500 392 6449611 25 234 28
+222 155 6495628 19 75 13
+163 130 902923 18 32 18
+51 29 219329 20 16 14
+41 25 181392 14 10 7
+120 95 650542 100
+180 143 1045045 141
+236 210 2591721 189
+22 6 32783 7
+34 13 114414 12
+38 14 114965 20
+131 94 646500 84
+110 85 2350273 71
+345 154 1249141 81
+207 171 1151134 88
+274 234 12292706 75
+118 99 703267 23
+315 279 1810526 96
+195 61 1624886 52
+1022 535 4955041 287
+207 159 22513119 59
+438 342 9195349 58
+199 171 10714174 110
+285 191 7726625 179
+169 138 25603935 32
+77 45 267036 37
+276 236 10571891 87
+107 69 506243 80
+146 115 14737686 29
+0
+0
+0
+3659
+0
+0
+0
+0
+0
+9
+0
+0
+0
+0
+894
+0
+0
+0
+0
+0
+0
+689
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/immagini/luisapachera.jpg
+1 117 0 481045 0 0
+/immagini/menupachera/libri01.jpg
+1 128 0 115736 0 0
+/immagini/apecheronzag.jpg
+1 2 0 43538 0 0
+/libroapecheronza.html
+0 43 0 246496 9 8
+/archivio2011.html
+0 37 0 246756 8 9
+/immagini/cornicesu.jpg
+1 20 0 118280 0 0
+/testizodiaco.html
+0 32 0 523788 11 9
+/
+0 427 0 2392595 354 187
+/immagini/elviradegrestig.jpg
+1 3 0 135516 0 0
+/immagini/radici.jpg
+1 29 0 139137 0 0
+/fillo/fillo03.html
+0 28 0 55440 0 1
+/testigazzetta.html
+0 32 0 205136 2 1
+/immagini/pergole.jpg
+1 18 0 108468 0 0
+/immagini/cornicegiu.jpg
+1 20 0 102283 0 0
+/immagini/marchesa.jpg
+1 21 0 145131 0 0
+/fillo/immagini/indietro.jpg
+1 2 0 2490 0 0
+/immagini/corniceorizhome.jpg
+1 100 0 208656 0 0
+/librofranto.html
+0 44 0 255044 21 12
+/immagini/hemingway.pdf
+0 2 0 57386 0 0
+/libromarchesa.html
+0 37 0 245122 8 6
+/immagini/locarivoluzioneosvaldo.jpg
+1 1 0 20693 0 0
+/libropergole.html
+0 29 0 177571 7 3
+/fillo/fillo04.html
+0 27 0 53460 0 2
+/fillo/immagini/testatafillo.jpg
+1 2 0 25410 0 0
+/immagini/blondie.jpg
+1 17 0 58072 0 0
+/libroelviradegresti.html
+0 35 0 219091 4 4
+/archivio2008.html
+0 31 0 346096 10 9
+/immagini/signorgiudice.jpg
+1 18 0 177228 0 0
+/fillo/fillo05.html
+0 24 0 47520 0 0
+/librotripoli.html
+0 53 0 294368 19 8
+/immagini/musicacoloriparole.jpg
+1 24 0 109296 0 0
+/fillo/fillo10.html
+0 15 0 29715 0 3
+/immagini/rivoluzionediosvaldog.jpg
+1 3 0 51438 0 0
+/immagini/premioradici.pdf
+0 1 0 104392 0 0
+/immagini/stavag.jpg
+1 4 0 53580 0 0
+/archivio2009.html
+0 35 0 403165 10 8
+/immagini/gazzetta04.pdf
+0 4 0 3383404 0 0
+/immagini/menupachera/testi02.jpg
+1 109 0 108822 0 0
+/immagini/vollmilchschokolade.jpg
+1 18 0 68652 0 0
+/immagini/musicausignolo.jpg
+1 3 0 240303 0 0
+/immagini/teatro.jpg
+1 27 0 54909 0 0
+/immagini/millyg.jpg
+1 1 0 37966 0 0
+/fillo/fillo06.html
+0 22 0 43560 0 0
+/immagini/disegnoleone.jpg
+1 4 0 690464 0 0
+/immagini/musicadromedario.jpg
+1 3 0 224871 0 0
+/immagini/riviste.jpg
+1 23 0 51053 0 0
+/immagini/benessere.jpg
+1 2 0 13740 0 0
+/immagini/musicacobra.jpg
+1 5 0 390135 0 0
+/immagini/musicagiraffaezebra.jpg
+1 5 0 418260 0 0
+/testidiversiefelici.html
+0 40 0 400059 11 7
+/immagini/menupachera/archivio02.jpg
+1 96 0 122858 0 0
+/fillo/immagini/fillo04.jpg
+1 1 0 157363 0 0
+/collegamenti.css
+1 180 0 80924 0 0
+/immagini/gazzetta03.pdf
+0 2 0 1713244 0 0
+/immagini/mergellinapilsg.jpg
+1 1 0 39573 0 0
+/immagini/menupachera/testi01.jpg
+1 109 0 101540 0 0
+/immagini/luisapacherafotoscritti.jpg
+1 32 0 744312 0 0
+/testi.html
+0 71 0 740469 20 10
+/immagini/disegnousignolo.jpg
+1 6 0 1320972 0 0
+/immagini/sorelleitaliag.jpg
+1 7 0 232402 0 0
+/fillo/fillo07.html
+0 22 0 43560 0 0
+/immagini/menupachera/archivio01.jpg
+1 112 0 121774 0 0
+/fillo/immagini/fillo03.jpg
+1 1 0 154097 0 0
+/immagini/menupachera/chisono02.jpg
+1 101 0 126955 0 0
+/immagini/tonia.pdf
+0 3 0 54301 0 0
+/immagini/gazzetta02.pdf
+0 2 0 1407102 0 0
+/immagini/fillo.jpg
+1 24 0 141384 0 0
+/immagini/filettocorto.jpg
+1 49 0 39996 0 0
+/immagini/franto.jpg
+1 16 0 83488 0 0
+/immagini/apecheronza.jpg
+1 16 0 104960 0 0
+/immagini/cantina.jpg
+1 19 0 112404 0 0
+/immagini/blondieg.jpg
+1 2 0 53706 0 0
+/fillo/fillo08.html
+0 23 0 45540 0 0
+/fillo/immagini/fillo02.jpg
+1 1 0 166292 0 0
+/immagini/menupachera/chisono01.jpg
+1 105 0 105990 0 0
+/libromergellinapils.html
+0 29 0 176545 1 0
+/immagini/gazzetta01.pdf
+0 16 0 6876076 0 0
+/immagini/sanvirtuale.jpg
+1 24 0 108586 0 0
+/immagini/background.jpg
+1 105 0 861005 0 0
+/immagini/radici05.pdf
+0 3 0 2332417 0 0
+/immagini/labetonega.jpg
+1 1 0 36840 0 0
+/immagini/corto.jpg
+1 17 0 131971 0 0
+/immagini/riedel4400-1.pdf
+0 1 0 115 0 0
+/fillo/immagini/fillo01.jpg
+1 1 0 124152 0 0
+/fillo/fillo09.html
+0 23 0 45540 0 0
+/immagini/fillog.jpg
+1 2 0 134178 0 0
+/immagini/radici04.pdf
+0 2 0 1132980 0 0
+/testistava.html
+0 45 0 248235 10 10
+/libri.html
+0 67 0 1045525 22 9
+/testimilly.html
+0 32 0 201620 2 3
+/fillo/immagini/avanti.jpg
+1 1 0 1212 0 0
+/librogioco.html
+0 32 0 202334 4 2
+/immagini/diversiefelici.jpg
+1 34 0 277154 0 0
+/immagini/musicaelefante.jpg
+1 4 0 390784 0 0
+/immagini/premioradici.jpg
+1 3 0 15792 0 0
+/immagini/tripoli.jpg
+1 19 0 107160 0 0
+/stats/webalizer/
+0 1 0 10233 2 1
+/immagini/disegnocamaleonte.jpg
+1 4 0 588044 0 0
+/immagini/stava.jpg
+1 42 0 199157 0 0
+/immagini/disegnogiraffaezebra.jpg
+1 3 0 400239 0 0
+/immagini/gazzetta.jpg
+1 23 0 165296 0 0
+/immagini/vollmilchschokoladeg.jpg
+1 1 0 29133 0 0
+/immagini/ilcantiniere.jpg
+1 1 0 17480 0 0
+/librovollmilchschokolade.html
+0 35 0 175727 8 7
+/immagini/sanvirtualeg.jpg
+1 8 0 181208 0 0
+/immagini/lamariotta.jpg
+1 2 0 62916 0 0
+/immagini/disegnoelefante.jpg
+1 5 0 728985 0 0
+/immagini/fumetti.jpg
+1 25 0 54028 0 0
+/librocantina.html
+0 28 0 168028 5 5
+/librosignorgiudice.html
+0 40 0 223447 11 7
+/immagini/tripolig.jpg
+1 14 0 145669 0 0
+/immagini/invito.pdf
+0 3 0 51795 0 0
+/immagini/radici01.pdf
+0 2 0 1242933 0 0
+/immagini/luisapacherafoto.jpg
+1 92 0 1804532 0 0
+/testisanvirtuale.html
+0 45 0 279121 11 13
+/immagini/disegnouccello.jpg
+1 3 0 412323 0 0
+/immagini/gazzettag.jpg
+1 1 0 48939 0 0
+/immagini/filetto.jpg
+1 138 0 118826 0 0
+/immagini/disegnocobra.jpg
+1 4 0 662848 0 0
+/immagini/diversiefelicig.jpg
+1 8 0 485440 0 0
+/immagini/oroscopo.jpg
+1 24 0 137668 0 0
+/immagini/gioco.jpg
+1 19 0 108243 0 0
+/archivio.html
+0 57 0 284211 12 6
+/immagini/mergellinapils.jpg
+1 15 0 64170 0 0
+/immagini/musicauccello.jpg
+1 5 0 378725 0 0
+/immagini/musicaleopardo.jpg
+1 3 0 255945 0 0
+/testifillo.html
+0 27 0 151533 6 3
+/immagini/musicaleone.jpg
+1 4 0 408764 0 0
+/immagini/backgroundarchivio.jpg
+1 21 0 107918 0 0
+/testiradici.html
+0 29 0 235643 4 4
+/immagini/disegnocover.jpg
+1 5 0 97105 0 0
+/stats/webalizer/usage.png
+1 2 0 6466 0 0
+/immagini/disegnoleopardo.jpg
+1 4 0 1126517 0 0
+/librodiversiefelici.html
+0 47 0 317649 17 9
+/immagini/elviradegresti.jpg
+1 16 0 129856 0 0
+/immagini/disegnodromedario.jpg
+1 5 0 626080 0 0
+/fillo/fillo01.html
+0 25 0 47889 0 1
+/immagini/rivoluzionediosvaldo.jpg
+1 29 0 98187 0 0
+/immagini/milly.jpg
+1 24 0 89264 0 0
+/libroblondie.html
+0 29 0 163019 6 3
+/immagini/sorelleitalia.jpg
+1 12 0 91803 0 0
+/chisono.html
+0 84 0 849461 45 25
+/immagini/signorgiudiceg.jpg
+1 2 0 302 0 0
+/archivio2010.html
+0 32 0 230444 10 8
+/immagini/menupachera/libri02.jpg
+1 101 0 106414 0 0
+/immagini/frantog.jpg
+1 1 0 42276 0 0
+/fillo/fillo02.html
+0 26 0 51451 1 0
+/immagini/scrittafilosofia.jpg
+1 64 0 316439 0 0
+/testirivoluzionediosvaldo.html
+0 33 0 249145 9 4
+/librostava.html
+0 46 0 256646 15 6
+/librocorto.html
+0 23 0 132277 2 1
+/immagini/musicacamaleonte.jpg
+1 5 0 412345 0 0
+/immagini/videodiversiefelici.swf
+0 12 0 80373350 0 0
+/testisorelleitalia.html
+0 14 0 86406 0 3
+# End Of Table - urls
+# -sites- (monthly)
+unallocated.star.net.uk
+0 10 5 34643 2 1306761042
+/
+66.249.72.117
+0 1 1 2530 0 0
+-
+66.249.72.119
+0 3 3 15079 0 0
+-
+199.19.249.196
+0 5 5 42322 4 1306752525
+/
+static-88.131.106.7.addr.tdc.se
+0 2 0 772 0 0
+-
+157.55.17.93
+0 7 7 23382 2 1305160217
+/testirivoluzionediosvaldo.html
+msnbot-157-55-112-221.search.msn.com
+0 3 3 7203 1 1305414818
+/librofranto.html
+194.105.50.22
+0 220 70 603335 1 1306161929
+/archivio2011.html
+host241-107-dynamic.45-79-r.retail.telecomitalia.it
+0 1 0 423 0 0
+-
+194.105.50.26
+0 3 1 6769 2 1305765662
+/
+e2.4a.79ae.static.theplanet.com
+0 5 2 20427 1 1304796120
+/fillo/fillo01.html
+tec92-1-89-82-212-26.dsl.sta.abo.bbox.fr
+0 57 56 365491 1 1305427198
+/testiradici.html
+88.131.106.3
+0 1 1 17379 1 1304742169
+/libri.html
+msnbot-207-46-12-116.search.msn.com
+0 1 1 6339 1 1305154111
+/libropergole.html
+corbina.ru
+2 5 5 20669 3 1306699767
+/
+202.171.253.70
+0 1 1 6691 1 1306630547
+/
+123.125.67.161
+0 2 0 772 0 0
+-
+msnbot-207-46-195-225.search.msn.com
+0 2 0 844 1 1304716658
+-
+157.55.16.231
+0 2 0 844 1 1304686610
+-
+net-93-70-246-212.cust.dsl.vodafone.it
+0 56 55 365603 1 1306670486
+/archivio.html
+66.249.72.133
+0 1 1 1662 0 0
+-
+wsip-24-234-161-78.lv.lv.cox.net
+0 58 56 372565 1 1304661996
+/fillo/fillo10.html
+93-39-106-37.ip75.fastwebnet.it
+0 31 28 130129 1 1305391795
+/archivio2008.html
+207.46.12.169
+0 2 2 6657 1 1305070809
+/libromergellinapils.html
+87.8.22.90
+0 22 22 227214 1 1306533383
+/librodiversiefelici.html
+msnbot-207-46-13-88.search.msn.com
+0 2 0 573 1 1305818979
+/libri.html
+2dayhost.com
+2 17 17 133940 1 1305419881
+/testirivoluzionediosvaldo.html
+ip-95-220-251-81.bb.netbynet.ru
+0 2 2 6996 1 1304422688
+/
+msnbot-207-46-13-137.search.msn.com
+0 2 0 573 1 1304321572
+/testistava.html
+msnbot-207-46-204-178.search.msn.com
+0 3 0 724 1 1305878719
+/
+msnbot-65-52-110-69.search.msn.com
+0 4 2 14336 1 1306657623
+/
+msnbot-207-46-195-203.search.msn.com
+0 3 3 11942 1 1304463991
+/testidiversiefelici.html
+net.ua
+2 1 1 6746 1 1306397563
+/
+c-24-63-174-135.hsd1.ma.comcast.net
+0 5 2 35589 1 1304213792
+-
+61.247.204.35
+0 5 4 26110 1 1305597804
+/
+net.uk
+2 10 5 34643 2 1306761042
+/
+ask.com
+2 22 11 75677 8 1306756399
+/
+host172-6-dynamic.20-79-r.retail.telecomitalia.it
+0 53 52 21718382 1 1304709422
+/librodiversiefelici.html
+crawl-66-249-72-74.googlebot.com
+0 2 0 844 0 0
+-
+eastern-tele.com
+2 23 20 94532 1 1304316659
+/
+61.247.204.46
+0 1 1 532 0 0
+-
+msnbot-65-52-110-47.search.msn.com
+0 1 1 6704 1 1306463241
+/archivio2011.html
+belgacom.be
+2 38 38 269294 1 1305633846
+/testi.html
+msnbot-207-46-204-196.search.msn.com
+0 4 0 1146 1 1304518364
+/archivio2009.html
+66.249.82.129
+0 16 16 62678 1 1304791712
+/librotripoli.html
+78-134-117-53.dynamic.eolo.it
+0 4 0 1690 1 1306187914
+-
+static-208-80-194-33.as13448.com
+0 2 2 13174 2 1306773812
+/
+rr.com
+2 61 59 407811 1 1306349080
+/fillo/fillo09.html
+2.112.93.91
+0 18 18 76845 1 1305281483
+/testistava.html
+msnbot-65-52-110-56.search.msn.com
+0 2 0 573 1 1306166846
+/testidiversiefelici.html
+msnbot-207-46-195-230.search.msn.com
+0 3 0 724 1 1305365505
+/librofranto.html
+ks311135.kimsufi.com
+0 1 1 223 1 1306313109
+/
+66.235.124.20
+0 4 2 13634 1 1305575992
+/
+95.108.158.234
+0 8 0 1750 0 0
+-
+208-115-111-72-reverse.wowrack.com
+0 7 1 8920 3 1306396129
+-
+msnbot-65-52-110-25.search.msn.com
+0 1 0 422 0 0
+-
+msnbot-65-52-110-65.search.msn.com
+0 2 1 11743 1 1304720033
+/chisono.html
+msnbot-207-46-13-53.search.msn.com
+0 2 1 13306 1 1306412439
+/testi.html
+ycar12.mobile.re3.yahoo.com
+0 2 1 7059 1 1306666764
+/
+95-26-128-171.broadband.corbina.ru
+0 2 2 6996 1 1304310348
+/
+msnbot-65-52-110-74.search.msn.com
+0 1 0 423 1 1306043691
+-
+137.204.99.17
+0 32 31 151183 1 1304956550
+/testi.html
+crawlh000.ayell.org
+0 10 9 62883 1 1304269636
+/librotripoli.html
+msnbot-157-55-112-228.search.msn.com
+0 4 4 13270 2 1305442893
+/librofranto.html
+eatel.net
+2 58 57 406673 1 1306459657
+/fillo/fillo09.html
+87.0.52.146
+0 19 7 53277 3 1306502787
+/testisanvirtuale.html
+95.143.198.25
+0 60 59 397612 1 1305913155
+/fillo/fillo10.html
+msnbot-65-52-104-38.search.msn.com
+0 3 3 7487 1 1305321704
+/testistava.html
+msnbot-207-46-204-192.search.msn.com
+0 3 0 1323 0 0
+-
+spider23.picsearch.com
+0 2 2 3364 0 0
+-
+picsearch.com
+2 4 2 4136 0 0
+-
+212.125.94.167
+0 1 1 6710 1 1306761043
+/
+msnbot-65-52-110-52.search.msn.com
+0 1 1 17415 1 1305522759
+/libri.html
+yandex.ru
+2 201 54 4593362 47 1306800481
+/librosignorgiudice.html
+crawl6.dotnetdotcom.org
+0 5 0 1835 0 0
+-
+midco.net
+2 1 1 6412 1 1305665051
+/
+crawlh003.ayell.org
+0 9 7 71118 1 1304233135
+/libri.html
+94.161.122.32
+0 7 2 40010 1 1306709597
+-
+host72-111-dynamic.31-79-r.retail.telecomitalia.it
+0 3 0 1269 0 0
+-
+crawl10.exabot.com
+0 6 1 8098 2 1306253249
+/
+207.46.199.46
+0 1 0 422 0 0
+-
+194.242.212.201
+0 2 2 15836 0 0
+-
+151.27.191.152
+0 10 9 45054 1 1304677232
+/chisono.html
+95.143.198.51
+0 59 57 378515 1 1305079791
+/fillo/fillo10.html
+host155-45-dynamic.50-82-r.retail.telecomitalia.it
+0 2 0 846 0 0
+-
+ovh.net
+2 14 14 3122 11 1306113468
+/
+crawl3.majestic12.co.uk
+0 10 5 34085 2 1305141803
+/
+85.27-128-109.adsl-dyn.isp.belgacom.be
+0 38 38 269294 1 1305633846
+/testi.html
+host140-113-dynamic.1-79-r.retail.telecomitalia.it
+0 20 19 95059 1 1304422295
+/chisono.html
+82.50.46.146
+0 2 2 12780 1 1306685858
+/chisono.html
+hostnoc.net
+2 7 7 45248 1 1304430949
+/
+crawl-66-249-72-89.googlebot.com
+0 3 0 1266 0 0
+-
+msnbot-207-46-195-228.search.msn.com
+0 6 0 2045 1 1305339116
+/libromarchesa.html
+87.6.229.2
+0 2 2 62083 0 0
+-
+host175-58-static.25-87-b.business.telecomitalia.it
+0 20 18 122153 1 1306064139
+/chisono.html
+109.128.27.85
+0 51 48 302103 1 1305633851
+/archivio2011.html
+host187-174-static.240-95-b.business.telecomitalia.it
+0 17 16 10761870 1 1304436031
+/librodiversiefelici.html
+94.164.148.81
+0 25 22 119830 1 1304791926
+/chisono.html
+as29017.net
+2 1 1 6746 1 1306756336
+/
+crawl-66-249-72-16.googlebot.com
+0 2 2 13000 1 1304489210
+/
+crawl-66-249-72-227.googlebot.com
+0 1 1 17480 0 0
+-
+adsl-ull-247-34.47-151.net24.it
+0 35 33 192756 1 1306168741
+/testi.html
+msnbot-207-46-199-21.search.msn.com
+0 4 4 12772 1 1304472959
+/libroblondie.html
+89-96-179-165.ip13.fastwebnet.it
+0 27 25 111163 1 1306412088
+/
+msnbot-207-46-12-238.search.msn.com
+0 2 0 573 1 1305057800
+/librosignorgiudice.html
+msnbot-207-46-195-206.search.msn.com
+0 3 3 8136 1 1304799548
+/libromarchesa.html
+184.154.7.186
+0 12 12 115613 2 1306238561
+/
+ec2-46-137-44-108.eu-west-1.compute.amazonaws.com
+0 3 1 7205 1 1306015276
+/
+crawl-66-249-72-141.googlebot.com
+0 1 1 104392 0 0
+-
+tdc.se
+2 16 2 29674 4 1306422641
+-
+s075.x1.fr
+0 2 2 12928 1 1304232888
+/
+89-145-108-202.as29017.net
+0 1 1 6746 1 1306756336
+/
+spider27.picsearch.com
+0 2 0 772 0 0
+-
+dotnetdotcom.org
+2 5 0 1835 0 0
+-
+nat-elec-motor-9.eatel.net
+0 58 57 406673 1 1306459657
+/fillo/fillo09.html
+static-208-80-194-32.as13448.com
+0 2 2 12862 1 1305371974
+/
+msnbot-207-46-12-155.search.msn.com
+0 2 2 6866 1 1305996009
+/testifillo.html
+79.25.210.95
+0 1 1 28693 0 0
+-
+38.111.147.84
+0 49 21 136294 1 1305482722
+/
+39-199.77-83.cust.bluewin.ch
+0 3 1 1237964 0 0
+-
+msnbot-65-52-110-19.search.msn.com
+0 2 0 844 0 0
+-
+softlayer.com
+2 1 0 450 0 0
+-
+msnbot-207-46-13-47.search.msn.com
+0 2 0 302 1 1305415229
+/testi.html
+host220-111-dynamic.232-95-r.retail.telecomitalia.it
+0 6 0 2538 0 0
+-
+msnbot-207-46-13-87.search.msn.com
+0 2 0 573 1 1306007297
+/testizodiaco.html
+208.115.111.72
+0 2 0 752 1 1305614255
+-
+kimsufi.com
+2 1 1 223 1 1306313109
+/
+fti.net
+2 21 15 99438 10 1306804376
+/
+host166-108-dynamic.237-95-r.retail.telecomitalia.it
+0 2 0 846 0 0
+-
+msnbot-65-52-110-28.search.msn.com
+0 3 0 1266 1 1306247046
+-
+msnbot-207-46-204-177.search.msn.com
+0 2 1 6889 1 1304907458
+/
+fastwebnet.it
+2 199 188 1091861 6 1306533352
+/chisono.html
+crawl-66-249-72-119.googlebot.com
+0 4 4 57355 0 0
+-
+212.113.37.105
+0 3 1 2660 1 1304283168
+/fillo/fillo02.html
+static-208-80-194-26.as13448.com
+0 4 4 25724 2 1305123715
+/
+bbox.fr
+2 57 56 365491 1 1305427198
+/testiradici.html
+207.46.204.191
+0 1 0 422 0 0
+-
+184-82-95-178.hostnoc.net
+0 7 7 45248 1 1304430949
+/
+yahoo.com
+2 4 2 13839 2 1306666764
+/
+spider63.yandex.ru
+0 106 52 4561276 47 1306800481
+/librosignorgiudice.html
+ayell.org
+2 23 18 160104 3 1304318312
+/testisanvirtuale.html
+yahoo.net
+2 59 25 163419 14 1306517710
+/librostava.html
+host64-247-dynamic.20-87-r.retail.telecomitalia.it
+0 18 18 83922 1 1305329578
+/chisono.html
+crawl-66-249-72-86.googlebot.com
+0 1 0 423 1 1305616435
+-
+210-204-115-208.servebyte.net
+0 61 59 394442 1 1304511651
+/fillo/fillo10.html
+btopenworld.com
+2 57 56 398877 1 1305790844
+/fillo/fillo10.html
+crawl-66-249-72-134.googlebot.com
+0 2 0 844 0 0
+-
+msnbot-207-46-204-234.search.msn.com
+0 2 0 573 1 1305426128
+/chisono.html
+92.f5.344a.static.theplanet.com
+0 1 1 6431 1 1305370501
+/
+msnbot-65-52-110-24.search.msn.com
+0 3 0 1380 0 0
+-
+msnbot-207-46-13-132.search.msn.com
+0 3 0 995 1 1306241244
+/archivio.html
+ppp-149-104.98-62.inwind.it
+0 25 23 134316 1 1306686377
+/chisono.html
+77.72.197.86
+0 19 18 85186 1 1306482001
+/chisono.html
+ppp-152-191.27-151.libero.it
+0 9 9 50584 0 0
+-
+msnbot-65-52-108-60.search.msn.com
+0 2 0 573 1 1306050169
+/librotripoli.html
+216.38.216.220
+0 38 38 10925307 2 1306347360
+/librotripoli.html
+93.146.221.89
+0 3 3 18659 0 0
+-
+msnbot-207-46-204-191.search.msn.com
+0 1 1 6746 1 1306850322
+/
+msnbot-207-46-199-46.search.msn.com
+0 1 0 151 1 1305310847
+/testifillo.html
+123systems.net
+2 35 27 211886 3 1306500068
+/
+87.30.77.185
+0 6 6 16381 0 0
+-
+net-188-218-120-66.cust.dsl.vodafone.it
+0 22 18 99729 1 1306270612
+/
+host146-46-dynamic.50-82-r.retail.telecomitalia.it
+0 23 21 156738 1 1306685873
+/testisorelleitalia.html
+msnbot-207-46-204-221.search.msn.com
+0 1 1 8033 1 1305139763
+/testirivoluzionediosvaldo.html
+g191235.upc-g.chello.nl
+0 15 13 100173 1 1306229354
+/librotripoli.html
+crawl-66-249-72-9.googlebot.com
+0 2 2 9100 0 0
+-
+173.192.70.178-static.reverse.softlayer.com
+0 1 0 450 0 0
+-
+207.46.12.211
+0 2 2 25768 1 1306866921
+/testi.html
+207.46.195.107
+0 2 2 12934 1 1305828400
+/
+151.52.235.92
+0 4 0 1690 1 1305924711
+-
+93.50.113.187
+0 2 2 34989 0 0
+-
+host90-22-dynamic.8-87-r.retail.telecomitalia.it
+0 34 32 3822787 1 1306533502
+/chisono.html
+msnbot-65-52-110-20.search.msn.com
+0 2 0 573 1 1304359395
+/
+41-134-151-41.dsl.mweb.co.za
+0 57 56 374007 1 1304348410
+/fillo/fillo10.html
+5.ovz.chicago.123systems.net
+0 35 27 211886 3 1306500068
+/
+77-208-51-17.red-acceso.airtel.net
+0 57 56 377452 1 1306011725
+/fillo/fillo10.html
+79.31.108.237
+0 26 11 96557 2 1305668317
+/chisono.html
+173.242.125.206
+0 32 30 237763 1 1304671600
+/testistava.html
+157.55.17.104
+0 4 0 1146 1 1305627737
+/librogioco.html
+crawl-66-249-72-57.googlebot.com
+0 2 0 844 0 0
+-
+natcrawlbloc04-13.net.s1.fti.net
+0 21 15 99438 10 1306804376
+/
+jyxo-crawler19.streaming.cesnet.cz
+0 16 11 72393 3 1306226171
+/libroelviradegresti.html
+sls-gb15p2.dca2.superb.net
+0 1 1 6511 1 1304454678
+/
+aknet.it
+2 61 58 376589 1 1306320436
+/archivio.html
+servebyte.net
+2 61 59 394442 1 1304511651
+/fillo/fillo10.html
+host91-93-static.112-2-b.business.telecomitalia.it
+0 52 49 11076897 1 1305283153
+/librodiversiefelici.html
+66.249.72.215
+0 3 2 13440 0 0
+-
+static-208-80-194-31.as13448.com
+0 2 2 13141 2 1306777968
+/
+host173-54-dynamic.10-188-r.retail.telecomitalia.it
+0 5 5 1858370 0 0
+-
+b3091172.crawl.yahoo.net
+0 2 0 772 0 0
+-
+207.46.12.241
+0 2 0 844 0 0
+-
+msnbot-65-52-109-59.search.msn.com
+0 2 0 573 1 1304861058
+/archivio2008.html
+vodafone.it
+2 146 135 888264 4 1306670486
+/archivio.html
+netbynet.ru
+2 2 2 6996 1 1304422688
+/
+host231-10-dynamic.180-80-r.retail.telecomitalia.it
+0 25 23 108258 1 1305055364
+/archivio2009.html
+msnbot-207-46-12-118.search.msn.com
+0 3 3 7850 1 1305549319
+/testisanvirtuale.html
+93.51.120.122
+0 1 1 36840 0 0
+-
+msnbot-207-46-195-227.search.msn.com
+0 6 1 8970 1 1306674897
+/
+as13448.com
+2 38 38 247465 28 1306777968
+/
+host-129-163-107-208.midco.net
+0 1 1 6412 1 1305665051
+/
+host139-219-static.14-79-b.business.telecomitalia.it
+0 101 39 236727 4 1306608254
+/
+inwind.it
+2 25 23 134316 1 1306686377
+/chisono.html
+87.15.104.52
+0 2 2 15538 0 0
+-
+188.216.203.16
+0 1 1 33311 0 0
+-
+67.137.238.164
+0 2 2 13492 1 1306226821
+/
+207.46.13.54
+0 1 0 422 0 0
+-
+93-50-113-187.ip152.fastwebnet.it
+0 22 19 64370 1 1306533352
+/chisono.html
+net-93-146-221-89.cust.dsl.teletu.it
+0 68 66 5812262 1 1306618442
+/testidiversiefelici.html
+msnbot-207-46-195-236.search.msn.com
+0 3 0 995 1 1306040869
+/chisono.html
+x1.fr
+2 2 2 12928 1 1304232888
+/
+host150-212-dynamic.2-79-r.retail.telecomitalia.it
+0 21 19 98030 1 1304283608
+/chisono.html
+msnbot-207-46-13-139.search.msn.com
+0 3 2 13356 1 1305470060
+/
+242.181.50.116.ids.service.eastern-tele.com
+0 23 20 94532 1 1304316659
+/
+static-208-80-194-36.as13448.com
+0 2 2 12895 2 1304995501
+/
+96.2.86.139
+0 1 1 6412 1 1305665053
+/
+93.70.246.212
+0 17 16 102420 1 1306670467
+/testi.html
+host142-104-dynamic.21-79-r.retail.telecomitalia.it
+0 4 0 1692 0 0
+-
+sr324.2dayhost.com
+0 17 17 133940 1 1305419881
+/testirivoluzionediosvaldo.html
+93-34-50-45.ip48.fastwebnet.it
+0 117 114 773375 2 1306115020
+/testizodiaco.html
+crawl-66-249-72-39.googlebot.com
+0 4 2 63790 1 1306749306
+-
+msnbot-65-52-110-49.search.msn.com
+0 3 0 995 1 1305380902
+/libroapecheronza.html
+host185-77-static.30-87-b.business.telecomitalia.it
+0 15 14 113033 1 1306155939
+/
+67.195.110.181
+0 7 3 13378 1 1305204057
+/testidiversiefelici.html
+googlebot.com
+2 41 20 3195161 4 1306749306
+-
+rrcs-50-74-54-62.nyc.biz.rr.com
+0 61 59 407811 1 1306349080
+/fillo/fillo09.html
+static-88.131.106.4.addr.tdc.se
+0 1 1 12951 1 1304918505
+/archivio2009.html
+amazonaws.com
+2 3 1 7205 1 1306015276
+/
+msnbot-65-52-110-18.search.msn.com
+0 2 0 573 1 1305673129
+/libri.html
+bluewin.ch
+2 3 1 1237964 0 0
+-
+msnbot-207-46-13-46.search.msn.com
+0 3 0 995 1 1306584123
+/librodiversiefelici.html
+msnbot-207-46-13-86.search.msn.com
+0 3 0 724 1 1306328247
+/librostava.html
+crawl-66-249-72-164.googlebot.com
+0 4 0 1690 1 1304811582
+-
+xv01d40710.vps.myhosting.com
+0 59 58 405470 1 1306536590
+/fillo/fillo09.html
+msnbot-65-52-108-14.search.msn.com
+0 3 0 724 1 1304454024
+/testi.html
+airtel.net
+2 57 56 377452 1 1306011725
+/fillo/fillo10.html
+msnbot-207-46-204-206.search.msn.com
+0 2 2 6635 1 1305422188
+/librofranto.html
+95.108.246.253
+0 23 14 3202725 9 1306571890
+/librotripoli.html
+151.47.34.247
+0 5 5 23361 0 0
+-
+msnbot-65-52-110-36.search.msn.com
+0 2 0 573 1 1305600330
+/testirivoluzionediosvaldo.html
+msnbot-207-46-13-144.search.msn.com
+0 2 1 12170 1 1306624413
+/chisono.html
+msnbot-65-52-110-76.search.msn.com
+0 3 0 995 1 1306406886
+/libroblondie.html
+jazztel.es
+2 59 58 395889 1 1306508234
+/fillo/fillo09.html
+net24.it
+2 35 33 192756 1 1306168741
+/testi.html
+host212-204-dynamic.52-79-r.retail.telecomitalia.it
+0 2 0 846 0 0
+-
+208.80.194.27
+0 1 1 6710 1 1306456236
+/
+208.80.194.29
+0 7 7 45296 5 1306452237
+/
+95.233.109.154
+0 2 1 33734 0 0
+-
+msnbot-207-46-12-211.search.msn.com
+0 1 1 568 0 0
+-
+host158-182-static.14-79-b.business.telecomitalia.it
+0 1 1 223 1 1306524503
+/
+208.80.194.30
+0 1 1 6431 1 1305875445
+/
+87.10.43.147
+0 1 1 21600 0 0
+-
+msnbot-65-52-109-60.search.msn.com
+0 3 0 995 1 1306030040
+/
+157.55.112.228
+0 3 3 12702 1 1305438915
+/librofranto.html
+adsl212-201.aknet.it
+0 61 58 376589 1 1306320436
+/archivio.html
+msnbot-65-52-110-54.search.msn.com
+0 4 0 1146 1 1304411465
+/
+157.55.112.234
+0 1 1 6067 1 1305461308
+/librofranto.html
+telecomitalia.it
+2 1704 988 71049170 39 1306838944
+/
+msnbot-207-46-13-131.search.msn.com
+0 1 0 422 0 0
+-
+94.84.185.10
+0 100 66 529971 5 1306334610
+/archivio.html
+crawl-66-249-72-87.googlebot.com
+0 2 0 302 0 0
+-
+schaer.com
+2 21 20 101685 1 1305296755
+/
+static-208-80-194-30.as13448.com
+0 3 3 19851 2 1306296609
+/
+crawl-66-249-72-214.googlebot.com
+0 1 1 1166151 0 0
+-
+crawl1.majestic12.co.uk
+0 5 2 14020 1 1305977791
+/
+msnbot-65-52-110-72.search.msn.com
+0 5 0 1839 1 1305279092
+/libri.html
+2.33.13.166
+0 22 21 127462 1 1305219953
+/
+163.20.26.5
+0 118 115 777831 2 1305298006
+/fillo/fillo10.html
+msnbot-207-46-199-45.search.msn.com
+0 3 0 724 1 1305403329
+/
+93.80.74.241
+0 1 1 532 0 0
+-
+msnbot-65-52-110-50.search.msn.com
+0 3 2 13356 1 1304776039
+/
+myhosting.com
+2 59 58 405470 1 1306536590
+/fillo/fillo09.html
+207.46.204.221
+0 1 1 568 0 0
+-
+net-188-216-203-16.cust.dsl.vodafone.it
+0 51 47 306272 1 1305124212
+/chisono.html
+207.46.204.227
+0 1 0 151 1 1306567008
+/archivio2008.html
+host146-52-dynamic.0-87-r.retail.telecomitalia.it
+0 227 45 453356 6 1306763740
+/
+b3091049.crawl.yahoo.net
+0 57 25 162647 14 1306517710
+/librostava.html
+chello.nl
+2 15 13 100173 1 1306229354
+/librotripoli.html
+88.131.106.22
+0 3 1 26576 0 0
+-
+host237-108-dynamic.31-79-r.retail.telecomitalia.it
+0 279 101 676732 6 1305668317
+/chisono.html
+static-208-80-194-35.as13448.com
+0 4 4 26348 2 1306616117
+/
+87.14.254.91
+0 12 12 44919 0 0
+-
+msnbot-207-46-195-208.search.msn.com
+0 3 3 13006 1 1305071363
+/librocantina.html
+msnbot-207-46-195-107.search.msn.com
+0 2 0 844 0 0
+-
+93-80-74-241.broadband.corbina.ru
+0 1 1 6710 1 1306699767
+/
+host169-120-dynamic.232-95-r.retail.telecomitalia.it
+0 1 1 25840 0 0
+-
+mail.schaer.com
+0 21 20 101685 1 1305296755
+/
+host52-104-dynamic.15-87-r.retail.telecomitalia.it
+0 78 76 481548 2 1305107305
+/archivio2008.html
+msnbot-157-55-112-222.search.msn.com
+0 2 2 6635 1 1305428623
+/librofranto.html
+cesnet.cz
+2 16 11 72393 3 1306226171
+/libroelviradegresti.html
+87.20.247.14
+0 5 5 12922 1 1306019582
+/
+93-40-103-211.ip38.fastwebnet.it
+0 2 2 12824 1 1305956056
+/
+ppp-219-172.27-151.libero.it
+0 67 65 409340 1 1304267010
+/archivio.html
+static-88.131.106.3.addr.tdc.se
+0 2 0 772 0 0
+-
+msnbot-207-46-195-226.search.msn.com
+0 2 0 573 1 1305421072
+/
+msn.com
+2 242 69 431326 82 1306869665
+/testi.html
+msnbot-207-46-199-50.search.msn.com
+0 2 0 899 0 0
+-
+66.249.72.33
+0 5 5 19639 0 0
+-
+host2-229-dynamic.6-87-r.retail.telecomitalia.it
+0 15 14 10711106 1 1305934607
+/librodiversiefelici.html
+net-188-216-200-110.cust.dsl.vodafone.it
+0 17 15 116660 1 1306585395
+/
+static-208-80-194-29.as13448.com
+0 13 13 84752 10 1306611935
+/
+cox.net
+2 58 56 372565 1 1304661996
+/fillo/fillo10.html
+msnbot-207-46-13-49.search.msn.com
+0 3 0 724 2 1305819221
+/testistava.html
+94.23.211.138
+0 3 3 669 2 1305951493
+/
+teletu.it
+2 68 66 5812262 1 1306618442
+/testidiversiefelici.html
+crawl-66-249-72-139.googlebot.com
+0 1 0 422 0 0
+-
+msnbot-65-52-110-39.search.msn.com
+0 3 0 995 1 1305107654
+/libropergole.html
+msnbot-207-46-13-147.search.msn.com
+0 3 0 995 1 1306092469
+/archivio2009.html
+msnbot-207-46-204-188.search.msn.com
+0 4 0 1146 1 1306564470
+/archivio.html
+crawl-66-249-72-84.googlebot.com
+0 2 1 5605 0 0
+-
+135.53.219.87.dynamic.jazztel.es
+0 59 58 395889 1 1306508234
+/fillo/fillo09.html
+crawl-66-249-72-132.googlebot.com
+0 1 1 1473 0 0
+-
+static-88.131.106.8.addr.tdc.se
+0 1 1 11285 1 1306289737
+/chisono.html
+msnbot-65-52-110-48.search.msn.com
+0 6 2 26851 2 1306666232
+/testi.html
+msnbot-207-46-204-197.search.msn.com
+0 2 0 573 1 1305459348
+/testimilly.html
+msnbot-65-52-110-88.search.msn.com
+0 2 0 302 1 1305769748
+/archivio.html
+87.20.247.64
+0 2 0 846 0 0
+-
+crawlh002.ayell.org
+0 4 2 26103 1 1304318312
+/testisanvirtuale.html
+host91-254-dynamic.14-87-r.retail.telecomitalia.it
+0 13 12 79712 1 1306020980
+/archivio2009.html
+66.249.72.75
+0 1 1 8668 0 0
+-
+66.249.72.76
+0 3 3 33161 0 0
+-
+msnbot-65-52-110-17.search.msn.com
+0 2 0 573 1 1306843125
+/archivio2010.html
+msnbot-207-46-12-162.search.msn.com
+0 2 2 6866 1 1306004521
+/testifillo.html
+msnbot-207-46-13-45.search.msn.com
+0 2 0 573 1 1306217354
+/librocorto.html
+213.215.183.105
+0 2 2 7314 1 1306176904
+/
+65.52.110.18
+0 1 0 151 1 1305673129
+/libri.html
+65.52.110.19
+0 1 0 151 1 1306738799
+/libri.html
+66.249.72.83
+0 1 1 2544 0 0
+-
+crawler5020.ask.com
+0 22 11 75677 8 1306756399
+/
+66.249.72.86
+0 1 0 423 1 1305616435
+-
+host89-85-static.105-82-b.business.telecomitalia.it
+0 2 2 2474236 0 0
+-
+208.107.163.129
+0 2 0 772 0 0
+-
+msnbot-65-52-110-66.search.msn.com
+0 3 1 7311 1 1305422088
+/
+host14-247-dynamic.20-87-r.retail.telecomitalia.it
+0 24 24 140922 1 1306019598
+/archivio.html
+65.52.110.22
+0 1 0 422 0 0
+-
+msnbot-207-46-13-54.search.msn.com
+0 5 2 12791 2 1305647811
+/archivio.html
+comcast.net
+2 5 2 35589 1 1304213792
+-
+188.10.54.173
+0 5 5 1305899 0 0
+-
+msnbot-65-52-110-35.search.msn.com
+0 2 0 853 1 1305771488
+-
+msnbot-207-46-12-241.search.msn.com
+0 2 1 6618 2 1304985429
+/
+msnbot-65-52-110-75.search.msn.com
+0 2 0 845 1 1304432272
+-
+msnbot-207-46-199-39.search.msn.com
+0 4 2 14245 2 1306365878
+/
+static-88.131.106.22.addr.tdc.se
+0 9 0 3508 2 1306422641
+-
+ip97-187.41.193.dan.net.ua
+0 1 1 6746 1 1306397563
+/
+eolo.it
+2 4 0 1690 1 1306187914
+-
+exabot.com
+2 6 1 8098 2 1306253249
+/
+ppp-59-78.27-151.libero.it
+0 59 57 387842 1 1306549681
+/fillo/fillo09.html
+msnbot-65-52-110-44.search.msn.com
+0 2 0 573 1 1305042608
+/chisono.html
+80.57.191.235
+0 43 43 270917 1 1306229359
+/fillo/fillo10.html
+host10-185-static.84-94-b.business.telecomitalia.it
+0 618 373 5685340 10 1306838944
+/
+65.52.110.47
+0 1 0 422 0 0
+-
+msnbot-65-52-110-53.search.msn.com
+0 6 0 2018 1 1305985798
+/librovollmilchschokolade.html
+ns304381.ovh.net
+0 14 14 3122 11 1306113468
+/
+msnbot-65-52-110-93.search.msn.com
+0 4 2 26341 2 1306869665
+/testi.html
+65.52.110.52
+0 2 0 844 0 0
+-
+188.216.200.110
+0 8 5 23549 0 0
+-
+static-208-80-194-34.as13448.com
+0 2 2 12862 2 1306008237
+/
+msnbot-65-52-110-22.search.msn.com
+0 4 1 28106 1 1306758997
+/libri.html
+co.uk
+2 21 10 68655 4 1305977791
+/
+theplanet.com
+2 6 3 26858 2 1305370501
+/
+65.52.110.66
+0 2 0 302 1 1305763720
+/
+65.52.110.69
+0 2 0 573 1 1306035559
+/testi.html
+msnbot-207-46-13-50.search.msn.com
+0 2 0 573 1 1306014132
+/chisono.html
+95-27-47-128.broadband.corbina.ru
+0 2 2 6963 1 1305296327
+/
+superb.net
+2 1 0 6511 1 1304454678
+/
+crawl2.majestic12.co.uk
+0 6 3 20550 1 1304475564
+/
+207.46.13.131
+0 1 1 1166151 0 0
+-
+msnbot-65-52-110-71.search.msn.com
+0 2 0 573 1 1305353405
+/archivio2010.html
+65.52.110.74
+0 1 0 422 0 0
+-
+207.46.13.139
+0 1 1 6467 1 1305470060
+/
+crawl-66-249-72-88.googlebot.com
+0 2 1 1713515 0 0
+-
+static-88.131.106.2.addr.tdc.se
+0 1 0 386 0 0
+-
+host217-46-205-54.in-addr.btopenworld.com
+0 57 56 398877 1 1305790844
+/fillo/fillo10.html
+wowrack.com
+2 7 1 8920 3 1306396129
+-
+crawl-66-249-72-215.googlebot.com
+0 3 3 7972 0 0
+-
+207.46.195.232
+0 1 0 151 1 1305617048
+/testisanvirtuale.html
+msnbot-65-52-110-40.search.msn.com
+0 4 0 1146 1 1304401428
+/librotripoli.html
+ycar1.mobile.ch1.yahoo.com
+0 2 1 6780 1 1305213668
+/
+msnbot-157-55-112-234.search.msn.com
+0 7 7 14974 2 1305457286
+/librofranto.html
+static-208-80-194-28.as13448.com
+0 4 4 25856 3 1304685785
+/
+host154-109-dynamic.233-95-r.retail.telecomitalia.it
+0 22 19 59469 1 1304778557
+/chisono.html
+imparser04.yandex.ru
+0 95 2 32086 0 0
+-
+msnbot-207-46-199-53.search.msn.com
+0 3 0 1266 1 1306185827
+-
+207.46.12.116
+0 1 1 568 0 0
+-
+207.46.12.118
+0 1 1 6714 1 1305549319
+/testisanvirtuale.html
+157.55.17.77
+0 2 2 6919 1 1304759755
+/testistava.html
+157.55.17.78
+0 2 2 6919 1 1304833029
+/testistava.html
+207.46.12.66
+0 2 2 6823 1 1306715901
+/librotripoli.html
+193.252.149.13
+0 5 3 20344 2 1306544041
+/
+co.za
+2 57 56 374007 1 1304348410
+/fillo/fillo10.html
+crawl-66-249-72-140.googlebot.com
+0 1 1 28693 0 0
+-
+195.42.102.25
+0 6 3 20147 1 1305419822
+/librocantina.html
+157.55.17.86
+0 2 2 6635 1 1305465532
+/librofranto.html
+libero.it
+2 135 131 847766 2 1306549681
+/fillo/fillo09.html
+194.105.50.17
+0 98 95 14828734 3 1306436636
+/testidiversiefelici.html
+# End Of Table - sites (monthly)
+# -sites- (daily)
+207.46.204.191
+0 1 0 422 0 0
+-
+spider63.yandex.ru
+0 3 0 724 1 1306800481
+/librosignorgiudice.html
+msnbot-207-46-204-191.search.msn.com
+0 1 1 6746 1 1306850322
+/
+207.46.12.211
+0 2 2 25768 1 1306866921
+/testi.html
+natcrawlbloc04-13.net.s1.fti.net
+0 2 1 7096 1 1306804376
+/
+b3091172.crawl.yahoo.net
+0 1 0 386 0 0
+-
+95.108.246.253
+0 1 0 151 0 0
+-
+msnbot-207-46-12-211.search.msn.com
+0 1 1 568 0 0
+-
+87.10.43.147
+0 1 1 21600 0 0
+-
+94.84.185.10
+0 4 4 37850 0 0
+-
+msnbot-65-52-110-17.search.msn.com
+0 2 0 573 1 1306843125
+/archivio2010.html
+host10-185-static.84-94-b.business.telecomitalia.it
+0 16 13 52594 1 1306838944
+/
+msnbot-65-52-110-93.search.msn.com
+0 3 2 26190 1 1306869665
+/testi.html
+imparser04.yandex.ru
+0 3 0 724 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.luisapachera.it/fillo/fillo04.html
+1 1
+http://www.michelenardelli.it/temi.php
+0 1
+- (Direct Request)
+0 2521
+http://www.luisapachera.it/libroelviradegresti.html
+1 18
+http://www.luisapachera.it/librostava.html
+1 6
+http://www.luisapachera.it/testisorelleitalia.html
+1 7
+http://www.luisapachera.it/libroapecheronza.html
+1 4
+http://www.luisapachera.it/archivio2011.html
+1 27
+http://luisapachera.it/
+0 46
+http://www.google.com/search
+0 1
+http://www.luisapachera.it/testidiversiefelici.html
+1 97
+http://www.luisapachera.it/libropergole.html
+1 3
+http://www.google.ch/search
+0 1
+http://www.google.com/imgres
+0 4
+http://www.luisapachera.it/testi.html
+1 426
+http://www.stava1985.it/stava1985/html/60/10/100/
+0 2
+http://www.luisapachera.it/archivio2008.html
+1 30
+http://www.luisapachera.it/librotripoli.html
+1 116
+http://www.luisapachera.it/libromergellinapils.html
+1 1
+http://yandex.ru/yandsearch
+0 4
+http://www.viticoltoriinavio.it/contatti.html
+0 1
+http://www.luisapachera.it/libri.html
+1 307
+http://www.luisapachera.it/stats/webalizer/
+1 2
+http://luisapachera.it/archivio2009.html
+0 44
+http://www.luisapachera.it/testistava.html
+1 22
+http://www.yandex.ru
+0 1
+http://www.luisapachera.it/testimilly.html
+1 1
+http://www.luisapachera.it/librogioco.html
+1 2
+http://oper1.karger.com/xpresstrack/submissions/pr_response.cfm
+0 1
+http://www.luisapachera.it/rivoluzionediosvaldo.html
+1 2
+http://ultrabait.biz
+0 7
+http://www.luisapachera.it/librovollmilchschokolade.html
+1 1
+http://www.123people.it/s/alvise+campostrini
+0 1
+http://www.luisapachera.it/librocantina.html
+1 1
+http://www.google.it/search
+0 18
+http://www.luisapachera.it/librosignorgiudice.html
+1 2
+http://www.luisapachera.it/librodiversiefelici.html
+1 59
+http://www.luisapachera.it/fillo/fillo01.html
+1 5
+http://www.google.it/imgres
+0 6
+http://www.luisapachera.it/testisanvirtuale.html
+1 53
+http://www.luisapachera.it/chisono.html
+1 242
+http://www.luisapachera.it/fillo/fillo02.html
+1 5
+http://query.ie.kikin.com/query-server/K/Query/
+0 2
+http://www.luisapachera.it/archivio.html
+1 73
+http://www.luisapachera.it/testirivoluzionediosvaldo.html
+1 4
+http://www.luisapachera.it/testifillo.html
+1 6
+http://www.luisapachera.it/
+1 1008
+http://www.luisapachera.it/fillo/fillo03.html
+1 2
+http://www.luisapachera.it/testigazzetta.html
+1 2
+http://www.luisapachera.it/librofranto.html
+1 13
+http://www.luisapachera.it/libroblondie.html
+1 2
+http://www.luisapachera.it/libromarchesa.html
+1 4
+http://www.google.it/url
+0 36
+# End Of Table - referrers
+# -agents- 
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Comcast; .NET CLR 1.1.4322; .NET CLR 2.0.50727; Comcast)
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; WOW64; Trident/5.0)
+0 29
+Mozilla/4.0 (compatible;)
+0 38
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaE66-1/300.21.012; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; FunWebProducts; GTB6.6; .NET CLR 2.0.50727; .NET CLR 3.0.4506
+0 69
+Mozilla/5.0 (X11; U; Linux i686; it; rv:1.9.2.17) Gecko/20110422 Ubuntu/10.10 (maverick) Firefox/3.6.17
+0 24
+Mozilla/5.0 (compatible; Google Desktop/5.9.1005.12335; http://desktop.google.com/)
+0 1
+Mozilla/5.0 (compatible; SiteBot/0.1; +http://www.sitebot.org/robot/)
+0 3
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 129
+Googlebot-Image/1.0
+0 5
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.5; it; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17
+0 40
+Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 5.1; Preload_01_07; FunWebProducts; SV1; .NET CLR 1.1.4322; IEMB3; IEM
+0 1
+Java/1.6.0_04
+0 238
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Hotbar4.5.2.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.24
+0 36
+Java/1.6.0_18
+0 114
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 46
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; FunWebProducts; InfoPath.1; MSN 9.0;MSN 9.1; MSNbQ002; MSNmen-us; MSNcOTH)
+0 1
+Baiduspider+(+http://www.baidu.com/search/spider.htm)
+0 2
+Java/1.6.0_21
+0 58
+Java/1.6.0_22
+0 118
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; {6634C13E-5D7A-9A21-D53C-DF8212EE9B37}; PeoplePal 3.0; InfoPath.2)
+0 1
+Java/1.6.0_24
+0 233
+Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.9.2.16) Gecko/20110319 Firefox/3.6.16
+0 67
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; YComp 5.0.0.0; FunWebProducts; .NET CLR 1.0.3705; .NET CLR 2.0.50727)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 80
+psbot/0.1 (+http://www.picsearch.com/bot.html)
+0 4
+TurnitinBot/2.1 (http://www.turnitin.com/robot/crawlerinfo.html)
+0 49
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+0 53
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.13) Gecko/20101206 Ubuntu/10.10 (maverick) Firefox/3.6.13 GTB7.1
+0 23
+Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.24
+0 22
+Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17 GTB7.1 (.NET CLR 3.5.30729)
+0 21
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; AT&T CSM7.0; acc=; acc=none)
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB6.6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729;
+0 32
+Opera/9.60 (Windows NT 5.1; U; ru) Presto/2.1.1
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+0 7
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.6 (build 01425))
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ;  Embedded Web Br
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.1) VoilaBot BETA 1.2 (support.voilabot@orange-ftgroup.com)
+0 26
+Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10 (.NET CLR 3.5.30729)
+0 63
+Opera/9.00 (Windows NT 4.0; U; en)
+0 2
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 103
+Mozilla/4.0 (compatible; MSIE 6.0; Windows ME) Opera 7.11  [en]
+0 1
+Mozilla/5.0 (compatible; MSIE 7.0b; Windows NT 6.0)
+0 38
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS26774; InfoPath.1; .NET CLR 3.0.04506.30; .NET CLR 2.0.50
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1;  Embedded Web Browser from: http://bsalsa.com/; .NET CLR 1.0.3705; .N
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 23
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; FunWebProducts; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0;
+0 1
+Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.00
+0 1
+Mozilla/5.0 (Windows NT 6.0; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 25
+Mozilla/5.0 (Windows; U; Windows NT 5.0; it; rv:1.9.1.15) Gecko/20101027 SeaMonkey/2.0.10
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 25
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; AT&T CSM6.0; AT&T CSM7.0; FunWebProducts; .NET CLR 1.1.4322; .NET CLR 2.0.
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Creative ZENcast v1.02.11; .NET CLR 2.0.50727)
+0 1
+Mozilla/4.0 (compatible; Clever Internet Suite 7.0)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; {BB0992C9-E3F4-4DE9-B371-277697A6E6CE}; .NET CLR 1.1.4322; .NET CLR 2.0.50
+0 2
+Googlebot/2.1 (+http://www.google.com/bot.html)
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 53
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; MS-RTC LM 8; .NET CLR 3
+0 7
+Mozilla/4.0 (compatible; Win32; WinHttp.WinHttpRequest.5)
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729;
+0 42
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+0 220
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; YPC 3.0.3; .NET CLR 1.1.4322; yplus 4.1.00b)
+0 1
+Microsoft Internet Explorer
+2 1741
+raynette httprequest/1.0
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; BT Openworld BB; YPC 3.2.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Med
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; {ED6CD145-0416-6626-6B4D-8659A1A7A2D6}; .NET CLR 1.1.4322)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; AAPT; .NET CLR 1.1.4322)
+0 3
+Mozilla/5.0 (compatible; Purebot/1.1; +http://www.puritysearch.net/)
+0 23
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; YPC 3.0.3; SU 2.009; .NET CLR 1.1.4322)
+0 3
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.
+0 13
+Java/1.4.1_04
+0 236
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 8.50
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; NN5.1.0.9)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; MSNIA; Windows 98; Win 9x 4.90; SpamBlockerUtility 4.8.0)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17
+0 73
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SIMBAR={4EB279B5-6E51-448f-B36A-DD2CA2D5EE2F}; .NET CLR 1.1.4322)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.0; it; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17 ( .NET CLR 3.5.30729; .NET4.0C)
+0 52
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)
+0 18
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+0 6
+Mozilla/5.0 (compatible; Ask Jeeves/Teoma; +http://about.ask.com/en/docs/about/webmasters.shtml)
+0 26
+Yeti/1.0 (NHN Corp.; http://help.naver.com/robots/)
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; YPC 3.0.0; FunWebProducts)
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET 
+0 10
+Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.9.1.19) Gecko/20110420 Firefox/3.5.19 (.NET CLR 3.5.30729)
+0 44
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB7.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NE
+0 60
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4
+0 37
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13
+0 3
+Jyxobot/1
+0 16
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB7.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC1; .
+0 55
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; MEGAUPLOAD 1.0)
+0 2
+Mozilla/5.0 (en-us) AppleWebKit/525.13 (KHTML, like Gecko; Google Web Preview) Version/3.1 Safari/525.13
+0 16
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SIMBAR={9AE24D80-56D4-11E0-B7D0-1C4BD60AD56B}; SLCC2; 
+0 89
+Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
+0 9
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16
+0 21
+Eurobot/1.1 (http://eurobot.ayell.eu)
+0 23
+Mozilla/5.0 (Windows; U; Windows NT 6.1; it; rv:1.9.1.19) Gecko/20110420 Firefox/3.5.19
+0 18
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.60 Safari/534.24
+0 281
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 25
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.71 Safari/534.24
+0 118
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 226
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; sensis; .NET CLR 1.1.4322)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.6pre) Gecko/2009011606 Firefox/3.1
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; SIMBAR={C0CD4ABC-3A8D-483d-B236-F5E7026C797F}; .NET CLR 1.1.4322)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 7
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.16) Gecko/20110319 Firefox/3.6.16
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24
+0 4
+Mozilla/5.0 (compatible; MJ12bot/v1.3.3; http://www.majestic12.co.uk/bot.php?+)
+0 115
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; www.k2pdf.com; .NET CLR 1.1.4322)
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.18
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;  SV1;  .NET CLR 1.1.4325;  .NET CLR 2.0.50727;  .NET CLR 3.0.30729;  .NET 
+0 51
+Netscape
+2 2336
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; Media Center PC 2.8; .NET CLR 1.1.4322; IEMB3; IEMB3)
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 2.0.50727; .NET CLR 1.1.4322; MSN 9.0;MSN 9.1; MSNbVZ02; MSNmen-u
+0 2
+Java1.4.0_01
+0 58
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; iebar; acc=username; .NET CLR 1.1.4322; MEGAUPLOAD 1.0)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6.6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NE
+0 41
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1;  SV1;  .NET CLR 1.1.4325;  .NET CLR 2.0.50727;  .NET CLR 3.0.30729;  .NET 
+0 19
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 20
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/5.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; istb 702; SV1; FunWebProducts; .NET CLR 1.1.4322)
+0 1
+GeoHasher/Nutch-1.0 (GeoHasher Web Search Engine; geohasher.gotdns.org; geo_hasher at yahoo * com)
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; Win64; AMD64)
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SIMBAR={CA90E8AD-6261-4348-88A8-DE60843AB04C}; GTB6.6; .NET C
+0 21
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS26792; SIMBAR={6C89AA09-0A07-11E0-9825-0018E76887E5}; .NE
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) Speedy Spider (http://www.entireweb.com/about/search_tech/speedy_spider/)
+0 20
+Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 223
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; OptusIE55-31; .NET CLR 1.1.4322)
+0 2
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; it-it) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobi
+0 2
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 66
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.dotnetdotcom.org/, crawler@dotnetdotcom.org)
+0 5
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24
+0 167
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; sbcydsl 3.12; YPC 3.2.0; FunWebProducts; SV1; .NET CLR 1.1.4322; HbTools 4
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; CMS Music Store2 v1.00.09 (Music Store,1033); .NET CLR 1.1.4322)
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET4.0C)
+0 669
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; FunWebProducts; GTB6.6; .NET CLR 2.0.50727; .NET CLR 3.0.4506
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17 ( .NET CLR 3.5.30729)
+0 2
+# End Of Table - agents
+# -search strings- 
+aspetti positivi della diversità
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
